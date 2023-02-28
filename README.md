@@ -1,6 +1,6 @@
 # Contador de Páginas (Semana da Biblioteca) 
 
-Em 2022 na semana do livro, o Senai nos desafiou a criar um projeto relacionado aos tema sustentabilidade e biblioteca.
+Em 2022, na semana do livro, o Senai nos desafiou a criar um projeto relacionado aos tema sustentabilidade e biblioteca.
 O objetivo era criar algum projeto usando habilidades maker.
 Tive a oportunidade de liderar uma equipe onde criamos um produto funcional em apenas 3 dias.
 
